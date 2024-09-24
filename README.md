@@ -22,7 +22,7 @@ The site is responsive for both desktop and mobile formats (Not fully sure)
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/abubakrelsobky/community-board/blob/main/community-board-walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LICEcap
 
