@@ -10,13 +10,13 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-**There is a unique theme for events or resources relevant to a specific community**
-**At least 10 unique resources or events are displayed in a responsive card format**
+* **There is a unique theme for events or resources relevant to a specific community**
+* **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-Buttons or links to a related resources are on each card component
-The site is responsive for both desktop and mobile formats (Not fully sure)
+* Buttons or links to a related resources are on each card component
+* The site is responsive for both desktop and mobile formats (Not fully sure)
 
 ## Video Walkthrough
 
